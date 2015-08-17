@@ -5,7 +5,7 @@ Heart
 Try to get my heart with curl.
 
 
-.. code:: console
+.. code-block:: console
 
    # Do you want to GET my heart?
    $ curl -iXGET heart.kjwon15.net
